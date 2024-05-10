@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "bidebieta.net",
+  "Id": "a785cf62-7653-4ae8-a995-5767e6761792"
+}
